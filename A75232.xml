@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the condemnation, behaviour, execution, and last dying words of Captain Francis Winter who was condemned at the sessions-house in the Old-Baily, on Saturday the 29th of April, for the murther of one John Chandler, in White Fryers, in London, &amp;c. and executed for the same at White-Fryars-Gate in Fleetstreet, on Wednesday the 17th of May 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75232</idno>
+            <idno type="STC">Wing A264A</idno>
+            <idno type="STC">ESTC R222206</idno>
+            <idno type="EEBO-CITATION">36281968</idno>
+            <idno type="OCLC">ocm 36281968</idno>
+            <idno type="VID">150542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2223:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the condemnation, behaviour, execution, and last dying words of Captain Francis Winter who was condemned at the sessions-house in the Old-Baily, on Saturday the 29th of April, for the murther of one John Chandler, in White Fryers, in London, &amp;c. and executed for the same at White-Fryars-Gate in Fleetstreet, on Wednesday the 17th of May 1693.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B. and are to be sold by Randall Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winter, Francis, d. 1693.</term>
+               <term>Executions and executioners --  England --  London.</term>
+               <term>London (England) --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150542:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE Condemnation, Behaviour, Execution, and Laſt dying Words OF <hi>Captain Francis Winter,</hi> VVho was Condemned at the <hi>Seſſions-Houſe</hi> in the <hi>Old-Baily,</hi> on <hi>Saturday</hi> the 29th. of <hi>April.</hi> For the Murther of one <hi>John Chandler,</hi> in <hi>White Fryers</hi> in <hi>London,</hi> &amp;c. and Executed for the ſame at <hi>White-Fryars-Gate</hi> in <hi>Fleetſtreet,</hi> on <hi>Wedneſday</hi> the 17th. of <hi>May,</hi> 1693.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>19. May. 1693</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>SEveral Reports, of this Nature, have been oftentimes Manifeſted in Print; many, of which, have ſeemed to look ſomewhat obſcure, till it hath been more particularly diſſected, and laid open, in all its Agravating Circumſtances. And indeed, till that be done, there are a ſort of Men in the World, who are apt to aſperſe the Su<g ref="char:EOLhyphen"/>perior Powers, as if they were too Severe in the Execution of Juſtice; but, when their Eyes are enlightned by the due Weight of Rea<g ref="char:EOLhyphen"/>ſon, then perhaps they will be of another mind, unleſs they are Prejudiced beyond the bounds of Natural Reaſon, and Common Sence, there<g ref="char:EOLhyphen"/>fore, it will not be inconvenient to give the <hi>Reader</hi> a Brief Account (by the way) of the <hi>Matter of Fact,</hi> in Relation to this Unfortu<g ref="char:EOLhyphen"/>nate Gentleman, <hi>&amp;c.</hi>
+            </p>
+            <p>Some Perſons (it is very likely) have not forgotten, that about the 4th. of <hi>July</hi> laſt, was Twelve Month, there was a Mutinous, or Riotous Aſſembly Raiſed, and got together in <hi>White Fryars,</hi> in <hi>London,</hi> in oppoſition to the Gentlemen of the <hi>Inner Temple,</hi> who ſtopt up a Paſſage that led out of the ſaid <hi>Fryars</hi> into the Temple Walks, the Gentlemen finding the ſaid Paſſage to be very incommodious to them, up<g ref="char:EOLhyphen"/>on the hot Reſiſtance of the <hi>White Fryars</hi> men, there was likely to be great Miſchief done, to prevent, appeaſe, and qualifie which, the then preſent Sheriffs of <hi>London,</hi> (being ſent for) came with their Officers and Attendants, en<g ref="char:EOLhyphen"/>tered in at the <hi>Fryars</hi> Gate, endeavouring to make open <hi>Proclamation,</hi> that all Perſons ſhould Ceaſe, and go Home in Peace to their Reſpe<g ref="char:EOLhyphen"/>ctive Abodes: But this was not Regarded by the Mutineers, for they were the more Incen<g ref="char:EOLhyphen"/>ſed, and came with great Fury againſt the High Sheriffs, this Gentleman being at the Head of about <hi>Fourſcore</hi> of them, as their Captain and Leader, with a Blunderbuſs in his hand, which he was ſeen to Fire off ſeveral times, bidding defiance to the Sheriffs; and all thoſe who were their Aſſiſtance, crying <hi>One and all, they would kill them, rather than any Man ſhould be taken out from them, by way of an Arreſt,</hi> but that was lookt upon to be but a falſe Sugge<g ref="char:EOLhyphen"/>ſtion, and a Cunning Plea of their own For<g ref="char:EOLhyphen"/>ging, they having no Regard to Authority, for they had placed ſeveral Casks on both ſides of the Street, on purpoſe to Impede the Paſſage of the Sheriffs, and ſome of them lay ſecretly behind them, as it were on purpoſe, to lye in Wait to take an Advantage, <hi>&amp;c.</hi> Fi<g ref="char:EOLhyphen"/>ring ſeveral times againſt the Sheriffs and their Men, the Captain being at the Head of them, as aforeſaid. And <hi>Chandler,</hi> the poor Man, who was killed, being on the Sheriffs ſide, had the misfortune to be ſhot in the Calf of his Leg, with a Leaden Bullet, which wound killed him in two or three Days, he ſolemnly proteſting upon his Death-Bed, that he knew Captain <hi>Winter</hi> very well, and that he was the Man that Shot him, for which Fact the Captain, for ſome conſiderable time, Ab<g ref="char:EOLhyphen"/>ſconded, but was lately Apprehended, and
+<pb facs="tcp:150542:2" rendition="simple:additions"/>Committed to <hi>Newgate</hi> for the ſame, and was this laſt Seſſions Tryed for it, and found Guil<g ref="char:EOLhyphen"/>ty of Murther, and, on the 29th. of <hi>April</hi> he was Condemned, in Order to be Executed with the other Criminals, who ſuffer'd at <hi>Tyburn,</hi> the 8th. Inſtant. But, by Vertue of Her Ma<g ref="char:EOLhyphen"/>jeſty's Gracious Reprieve, he was Reſpited until this day, <hi>&amp;c.</hi> As for his Birth, he was Born at <hi>Truro</hi> in <hi>Cornwall,</hi> then ſent Appren<g ref="char:EOLhyphen"/>tice to a Captain of a Ship, after this he was made a Captain of a Merchant Man to the <hi>Weſt Indias</hi> himſelf, after that he Commanded a Ship in the laſt <hi>Dutch</hi> Wars, where (to ſay the Truth) he behaved himſelf with a great deal of Candor and Courage, afterwards he fell into decay, and had Contracted ſome Debts in the World, which occaſioned him to fly for Refuge into <hi>White Fryers,</hi> where he had the Unhappineſs to be Engaged in ſuch an unworthy <hi>Deſign,</hi> and Violent <hi>Attempt,</hi> as aforeſaid.</p>
+            <p>He had not much to offer in his Defence at his Tryal, only in the General, that altho' he was there amongſt the Multitude, yet there were others that Shot, and therefore the Man might fall by another hand as well as his, or to that Effect, <hi>&amp;c.</hi> After Condemnation he Behav'd himſelf in a Chriſtian like manner, being much Concerned for his Souls Everla<g ref="char:EOLhyphen"/>ſting Welfare, deſiring the Advice, Good Counſel, and Prayers, of all thoſe Worthy Divines that came near him, acknowledging the Juſtice of God, in bringing him to Under<g ref="char:EOLhyphen"/>go ſo Severe a Puniſhment, for that he had been guilty of ſeveral Irregularities in the Courſe of his Life, and had not walked up to the ſtrict Rules of the Chriſtian Religion as he ought to have done, which he now La<g ref="char:EOLhyphen"/>mented, and was exceedingly troubled for, therefore he hoped that God would forgive him, being willing to ſubmit to the Righteous Judgement of God Almighty. He gave him<g ref="char:EOLhyphen"/>ſelf to Reading, Prayer, Hearing God's Word, and to all other Exerciſes of Religion, being willing to adhear to all Seaſonable Advice, that might any ways advance his mind, and ſet his thoughts on Heavenly Things, Relying on<g ref="char:EOLhyphen"/>ly upon the Merits of Chriſt, for his future Happineſs; he carryed himſelf humbly, du<g ref="char:EOLhyphen"/>ring his Impriſonment, both before and after Conviction, though Naturally of a ſtout, har<g ref="char:EOLhyphen"/>dy, and undaunted ſpirit, was no ways af<g ref="char:EOLhyphen"/>frighted at the near approaches of Death, gi<g ref="char:EOLhyphen"/>ving God the Praiſe for ſuch a Reſpite of Time, in Order to prepare his ſoul for another World.</p>
+            <p>On <hi>Wedneſday</hi> morning, the 17th. Inſtant as aboveſaid, (by Vertue of a Freſh Warrant from her Majeſty) he was put into a Coach at <hi>Newgate</hi> Stairs, and from thence Conveyed down <hi>Old Baily,</hi> and over <hi>Fleet-Bridge,</hi> to the <hi>Fryars</hi> Gate, in the way to which place, there were ſeveral Thouſands of Spectators, who thronged to ſee him, when the Cart was ſet<g ref="char:EOLhyphen"/>tled under the Gibbet, and he put into it, (which was Erected there on purpoſe) he ſtood up, and ſpake as fo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ws: <hi>I have no Publick Declaration to make here, my Thoughts being wholly taken up in the Concerns of my Eternal Welfare, for that is the Work that I am come here to do: Therefore I deſire that I may not be interrupted.</hi> Then the Miniſter Prayed with him, and for him, and Re<g ref="char:EOLhyphen"/>commended him to the Mercy of God, <hi>&amp;c.</hi>
+            </p>
+            <p>After this, he Pray'd in theſe Words.</p>
+            <p>
+               <q>
+                  <hi>O</hi> Moſt Great and Glorious Lord God, do thou look down in Mercy upon me, a Poor Miſerable Sinner, and ſhew thy bleſſed Face to me, now in this Hour of my Extremity, for what am I without thee, therefore O Lord! I beſeech thee to Par<g ref="char:EOLhyphen"/>don my Sins, and Waſh my Soul clean in the Blood of CHRIST JES<g ref="char:V">Ʋ</g>S, and deliver me O Lord from the guilt and defilement of Sin; Holy Father do thou Receive me into Mercy, for into thy Hands I Commend my Spirit: O Lord let it be Precious in thy Sight, and let it live with thee in Everlaſting Glory: Now I come, ſweet JES<g ref="char:V">Ʋ</g>S now I am coming to thee; Dear JES<g ref="char:V">Ʋ</g>S do thou plead my Cauſe with the Great GOD of Heaven and Earth, and ſend down thy Bleſſed Spirit to Aſſiſt and Help me in this Great Work I am now about; I am a Poor Worthleſs Creature, full of Sin and Miſery; yet do thou Lord JES<g ref="char:V">Ʋ</g>S take pitty upon my Precious Soul: O Lord JES<g ref="char:V">Ʋ</g>S come quickly, for I am now coming to thee, therefore I Humbly beg thee O GOD to Re<g ref="char:EOLhyphen"/>ceive my poor Soul into the Arms of thy Ever<g ref="char:EOLhyphen"/>laſting loving Kindneſs, Lord! Into thy Hands I Commend my Spirit, for thou haſt Redeemed it O LORD GOD of Truth <hi>Amen.</hi>
+               </q>
+            </p>
+            <p>Then the Cart Drew away, and afterwards he was Carryed into <hi>White-Fryars,</hi> to be Inter'd in the Sepulchre with his Brethren, <hi>&amp;c.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. B.</hi> and are to be ſold by <hi>Randall Taylor</hi> near <hi>Stationers-Hall.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
